@@ -1,4 +1,4 @@
-class NameDay
+class WorldNames::NameDay
 
   attr_reader :date
 

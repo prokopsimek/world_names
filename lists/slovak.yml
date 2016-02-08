@@ -1,0 +1,718 @@
+---
+Adam:
+  gender: m
+  name_day: 1 Dec
+Adriana:
+  gender: f
+  name_day: 1 Jun
+Agnesa:
+  gender: f
+  name_day: 1 Nov
+Albína:
+  gender: f
+  name_day: 1 Dec
+Alena:
+  gender: f
+  name_day: 1 Mar
+Aleš:
+  gender: m
+  name_day: 1 Apr
+Alexander:
+  gender: m
+  name_day: 1 Feb
+Alexandra:
+  gender: f
+  name_day: 1 Jan
+Alexej:
+  gender: m
+  name_day: 1 Jan
+Alica:
+  gender: f
+  name_day: 1 Sep
+Alojz:
+  gender: m
+  name_day: 1 Jun
+Alojzia:
+  gender: f
+  name_day: 1 Oct
+Alžbeta:
+  gender: f
+  name_day: 1 Nov
+Amália:
+  gender: f
+  name_day: 1 Jul
+Anastázia:
+  gender: f
+  name_day: 1 Apr
+Andrea:
+  gender: f
+  name_day: 1 Jan
+Andrej:
+  gender: m
+  name_day: 1 Nov
+Angela:
+  gender: f
+  name_day: 1 Mar
+Angelika:
+  gender: f
+  name_day: 1 Mar
+Anna:
+  gender: f
+  name_day: 1 Jul
+Antónia:
+  gender: f
+  name_day: 1 Jan
+Apolena:
+  gender: f
+  name_day: 
+Augustín:
+  gender: m
+  name_day: 1 Aug
+Aurel:
+  gender: m
+  name_day: 1 Oct
+Barbora:
+  gender: f
+  name_day: 1 Dec
+Bartolomej:
+  gender: m
+  name_day: 1 Aug
+Beáta:
+  gender: f
+  name_day: 1 Jun
+Benjamín:
+  gender: m
+  name_day: 1 Mar
+Blanka:
+  gender: f
+  name_day: 1 Jun
+Bohumil:
+  gender: m
+  name_day: 1 Mar
+Bohumír:
+  gender: m
+  name_day: 1 Nov
+Bohuslav:
+  gender: m
+  name_day: 1 Jul
+Božena:
+  gender: f
+  name_day: 1 Jul
+Branislav:
+  gender: m
+  name_day: 1 Mar
+Branislava:
+  gender: f
+  name_day: 1 Dec
+Braňka:
+  gender: f
+  name_day: 
+Branko:
+  gender: m
+  name_day: 
+Bronislav:
+  gender: m
+  name_day: 
+Bronislava:
+  gender: f
+  name_day: 1 Dec
+Cecília:
+  gender: f
+  name_day: 1 Nov
+Ctirad:
+  gender: m
+  name_day: 
+Cyril:
+  gender: m
+  name_day: 1 Jul
+Dalibor:
+  gender: m
+  name_day: 1 Jan
+Dalimil:
+  gender: m
+  name_day: 
+Dana:
+  gender: f
+  name_day: 1 Apr
+Danica:
+  gender: f
+  name_day: 1 Apr
+Daniel:
+  gender: m
+  name_day: 1 Jul
+Daniela:
+  gender: f
+  name_day: 1 Jan
+Darina:
+  gender: f
+  name_day: 
+Dávid:
+  gender: m
+  name_day: 1 Dec
+Denis:
+  gender: m
+  name_day: 
+Denisa:
+  gender: f
+  name_day: 1 Nov
+Dionýz:
+  gender: m
+  name_day: 1 Oct
+Dominik:
+  gender: m
+  name_day: 1 Aug
+Dominika:
+  gender: f
+  name_day: 1 Aug
+Dorota:
+  gender: f
+  name_day: 1 Feb
+Drahoslav:
+  gender: m
+  name_day: 1 Jan
+Dušan:
+  gender: m
+  name_day: 1 May
+Dušana:
+  gender: f
+  name_day: 1 Jul
+Edita:
+  gender: f
+  name_day: 1 Sep
+Eduard:
+  gender: m
+  name_day: 1 Mar
+Elena:
+  gender: f
+  name_day: 1 Aug
+Eliška:
+  gender: f
+  name_day: 1 Oct
+Ema:
+  gender: f
+  name_day: 1 Jan
+Emília:
+  gender: f
+  name_day: 1 Nov
+Erik:
+  gender: m
+  name_day: 1 Feb
+Estera:
+  gender: f
+  name_day: 1 Apr
+Eugen:
+  gender: m
+  name_day: 1 Nov
+Eulália:
+  gender: f
+  name_day: 
+Eva:
+  gender: f
+  name_day: 1 Dec
+Filip:
+  gender: m
+  name_day: 1 Aug
+Gabriel:
+  gender: m
+  name_day: 1 Mar
+Gabriela:
+  gender: f
+  name_day: 1 Feb
+Gregor:
+  gender: m
+  name_day: 1 Mar
+Hana:
+  gender: f
+  name_day: 1 Jul
+Havel:
+  gender: m
+  name_day: 
+Hedviga:
+  gender: f
+  name_day: 1 Oct
+Helena:
+  gender: f
+  name_day: 1 Aug
+Henrich:
+  gender: m
+  name_day: 1 Jul
+Imrich:
+  gender: m
+  name_day: 1 Nov
+Imriška:
+  gender: f
+  name_day: 
+Iveta:
+  gender: f
+  name_day: 1 May
+Ivona:
+  gender: f
+  name_day: 1 Dec
+Jakub:
+  gender: m
+  name_day: 1 Jul
+Ján:
+  gender: m
+  name_day: 1 Jun
+Jana:
+  gender: f
+  name_day: 1 Aug
+Janka:
+  gender: f
+  name_day: 
+Janko:
+  gender: m
+  name_day: 
+Jarmila:
+  gender: f
+  name_day: 1 Apr
+Jaroslav:
+  gender: m
+  name_day: 1 Apr
+Jaroslava:
+  gender: f
+  name_day: 1 Apr
+Jela:
+  gender: f
+  name_day: 1 Apr
+Jolana:
+  gender: f
+  name_day: 1 Sep
+Jonáš:
+  gender: m
+  name_day: 
+Jozef:
+  gender: m
+  name_day: 1 Mar
+Jozefína:
+  gender: f
+  name_day: 
+Judita:
+  gender: f
+  name_day: 1 Dec
+Júlia:
+  gender: f
+  name_day: 1 May
+Július:
+  gender: m
+  name_day: 1 Apr
+Juraj:
+  gender: m
+  name_day: 1 Apr
+Justína:
+  gender: f
+  name_day: 1 Apr
+Kajetán:
+  gender: m
+  name_day: 
+Kamil:
+  gender: m
+  name_day: 1 Jul
+Kamila:
+  gender: f
+  name_day: 1 Jul
+Karol:
+  gender: m
+  name_day: 1 Nov
+Katarína:
+  gender: f
+  name_day: 1 Nov
+Katka:
+  gender: f
+  name_day: 
+Kazimír:
+  gender: m
+  name_day: 1 Mar
+Klára:
+  gender: f
+  name_day: 1 Aug
+Klaudia:
+  gender: f
+  name_day: 1 Nov
+Klement:
+  gender: m
+  name_day: 1 Nov
+Koloman:
+  gender: m
+  name_day: 1 Oct
+Konrád:
+  gender: m
+  name_day: 
+Kornel:
+  gender: m
+  name_day: 1 Nov
+Kristína:
+  gender: f
+  name_day: 1 Jan
+Krištof:
+  gender: m
+  name_day: 1 Jul
+Ladislav:
+  gender: m
+  name_day: 1 Jun
+Ladislava:
+  gender: f
+  name_day: 
+Lenka:
+  gender: f
+  name_day: 1 Jun
+Linda:
+  gender: f
+  name_day: 1 Sep
+"ľuba":
+  gender: f
+  name_day: 
+"ľubica":
+  gender: f
+  name_day: 1 Mar
+"ľubomír":
+  gender: m
+  name_day: 1 Aug
+"ľuboš":
+  gender: m
+  name_day: 1 Sep
+Lucia:
+  gender: f
+  name_day: 1 Dec
+Lukáš:
+  gender: m
+  name_day: 1 Oct
+Lýdia:
+  gender: f
+  name_day: 1 Aug
+Magdaléna:
+  gender: f
+  name_day: 1 Jul
+Maja:
+  gender: f
+  name_day: 
+Marcel:
+  gender: m
+  name_day: 1 Apr
+Marek:
+  gender: m
+  name_day: 1 Apr
+Margita:
+  gender: f
+  name_day: 1 Jul
+Mária:
+  gender: f
+  name_day: 1 Sep
+Marián:
+  gender: m
+  name_day: 1 Mar
+Marianna:
+  gender: f
+  name_day: 1 Sep
+Marika:
+  gender: f
+  name_day: 
+Markéta:
+  gender: f
+  name_day: 
+Marta:
+  gender: f
+  name_day: 1 Jul
+Martin:
+  gender: m
+  name_day: 1 Nov
+Martina:
+  gender: f
+  name_day: 1 Sep
+Matej:
+  gender: m
+  name_day: 1 Feb
+Matilda:
+  gender: f
+  name_day: 1 Mar
+Matúš:
+  gender: m
+  name_day: 1 Sep
+Maximilián:
+  gender: m
+  name_day: 1 Oct
+Melánia:
+  gender: f
+  name_day: 1 Jun
+Metod:
+  gender: m
+  name_day: 1 Jul
+Michaela:
+  gender: f
+  name_day: 1 Sep
+Michal:
+  gender: m
+  name_day: 1 Sep
+Mikuláš:
+  gender: m
+  name_day: 1 Dec
+Milan:
+  gender: m
+  name_day: 1 Nov
+Miloš:
+  gender: m
+  name_day: 1 Jan
+Miloslav:
+  gender: m
+  name_day: 
+Mirek:
+  gender: m
+  name_day: 
+Miroslav:
+  gender: m
+  name_day: 1 Mar
+Miroslava:
+  gender: f
+  name_day: 1 Apr
+Monika:
+  gender: f
+  name_day: 1 May
+Nadežda:
+  gender: f
+  name_day: 1 Dec
+Natália:
+  gender: f
+  name_day: 1 Oct
+Nela:
+  gender: f
+  name_day: 
+Nikola:
+  gender: f
+  name_day: 1 Aug
+Nina:
+  gender: f
+  name_day: 1 Jul
+Oldrich:
+  gender: m
+  name_day: 1 Dec
+Oľga:
+  gender: f
+  name_day: 1 Jul
+Oliver:
+  gender: m
+  name_day: 1 Jul
+Olívia:
+  gender: f
+  name_day: 
+Olympia:
+  gender: f
+  name_day: 1 Sep
+Ondrej:
+  gender: m
+  name_day: 1 Nov
+Patka:
+  gender: f
+  name_day: 
+Patrícia:
+  gender: f
+  name_day: 1 Jul
+Patrik:
+  gender: m
+  name_day: 1 Jul
+Paulína:
+  gender: f
+  name_day: 1 Jun
+Pavol:
+  gender: m
+  name_day: 1 Jun
+Peter:
+  gender: m
+  name_day: 1 Jun
+Petra:
+  gender: f
+  name_day: 1 Jun
+Petronela:
+  gender: f
+  name_day: 1 May
+Radovan:
+  gender: m
+  name_day: 1 Jan
+Renáta:
+  gender: f
+  name_day: 1 Nov
+René:
+  gender: m
+  name_day: 1 Nov
+Robert:
+  gender: m
+  name_day: 1 Jun
+Roman:
+  gender: m
+  name_day: 1 Feb
+Romana:
+  gender: f
+  name_day: 
+Samuel:
+  gender: m
+  name_day: 1 Aug
+Sára:
+  gender: f
+  name_day: 
+Silvester:
+  gender: m
+  name_day: 1 Dec
+Silvia:
+  gender: f
+  name_day: 1 Aug
+"šimon":
+  gender: m
+  name_day: 1 Oct
+Simona:
+  gender: f
+  name_day: 
+Slavomír:
+  gender: m
+  name_day: 1 Apr
+Sofia:
+  gender: f
+  name_day: 
+Soňa:
+  gender: f
+  name_day: 1 Mar
+Stanislav:
+  gender: m
+  name_day: 1 Nov
+Stanislava:
+  gender: f
+  name_day: 1 Jun
+"štefan":
+  gender: m
+  name_day: 1 Dec
+"štefánia":
+  gender: f
+  name_day: 1 Aug
+Svetlana:
+  gender: f
+  name_day: 1 Mar
+Tadeáš:
+  gender: m
+  name_day: 1 Jun
+Tamara:
+  gender: f
+  name_day: 1 Jan
+Tatiana:
+  gender: f
+  name_day: 1 Feb
+Teodor:
+  gender: m
+  name_day: 1 Nov
+Terézia:
+  gender: f
+  name_day: 1 Oct
+Tibor:
+  gender: m
+  name_day: 1 Nov
+Timotej:
+  gender: m
+  name_day: 1 Jan
+Tomáš:
+  gender: m
+  name_day: 1 Mar
+Václav:
+  gender: m
+  name_day: 1 Sep
+Valentín:
+  gender: m
+  name_day: 1 Feb
+Valentína:
+  gender: f
+  name_day: 1 Oct
+Valéria:
+  gender: f
+  name_day: 1 Jun
+Vanda:
+  gender: f
+  name_day: 1 Feb
+Vanesa:
+  gender: f
+  name_day: 
+Vavrinec:
+  gender: m
+  name_day: 1 Aug
+Vendelín:
+  gender: m
+  name_day: 1 Oct
+Veronika:
+  gender: f
+  name_day: 1 Feb
+Viktor:
+  gender: m
+  name_day: 1 Feb
+Viktória:
+  gender: f
+  name_day: 1 May
+Viliam:
+  gender: m
+  name_day: 1 May
+Vilma:
+  gender: f
+  name_day: 1 May
+Vincent:
+  gender: m
+  name_day: 1 Jan
+Vít:
+  gender: m
+  name_day: 1 Jun
+Vladan:
+  gender: m
+  name_day: 
+Vladimír:
+  gender: m
+  name_day: 1 Jul
+Vladimíra:
+  gender: f
+  name_day: 1 Oct
+Vladislav:
+  gender: m
+  name_day: 1 Sep
+Vlado:
+  gender: m
+  name_day: 
+Vojtech:
+  gender: m
+  name_day: 1 Apr
+Vratislav:
+  gender: m
+  name_day: 1 Jun
+Zdenka:
+  gender: f
+  name_day: 1 Sep
+Zdenko:
+  gender: m
+  name_day: 1 Feb
+Zdeno:
+  gender: m
+  name_day: 
+"žigmund":
+  gender: m
+  name_day: 1 May
+Zita:
+  gender: f
+  name_day: 1 Apr
+Zlata:
+  gender: f
+  name_day: 
+Zlatica:
+  gender: f
+  name_day: 1 Feb
+"žofia":
+  gender: f
+  name_day: 1 May
+Zora:
+  gender: f
+  name_day: 1 Jan
+Zorka:
+  gender: f
+  name_day: 
+Zuza:
+  gender: f
+  name_day: 
+Zuzana:
+  gender: f
+  name_day: 1 Aug
+Zuzanka:
+  gender: f
+  name_day: 
+Zuzka:
+  gender: f
+  name_day: 

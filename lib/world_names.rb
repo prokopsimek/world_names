@@ -1,3 +1,5 @@
+require 'yaml'
+
 require 'world_names/version'
 require 'world_names/config'
 require 'world_names/name'

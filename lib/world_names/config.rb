@@ -1,9 +1,9 @@
-class Config
+class WorldNames::Config
 
   attr_accessor :countries
 
-  def initialize(countries = [])
-    self.countries
+  def initialize
+    self.countries = []
   end
 
 

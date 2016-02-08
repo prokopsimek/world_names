@@ -1,10 +1,10 @@
-class List
+class WorldNames::List
 
   attr_reader :list
 
-  def initialize(path)
+  def initialize(name)
     begin
-      @list = File.open(path)
+      @list = YAML.load_file(Dir.new(".").path + '/lists/' + name + '.yml')
     rescue => e
       raise e
     end
